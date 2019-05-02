@@ -1,0 +1,19 @@
+.fondo {
+  background-color: aqua;
+  width: 1100px;
+  height: 550px;
+  text-align: center;
+}
+.header {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 40px;
+}
+
+.row {
+  margin-top: 10px;
+}
+
+.error {
+  color: red;
+}
